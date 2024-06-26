@@ -1,6 +1,6 @@
 # NeurIPS 2024 Call for High School Projects
 
-## Product name: A CNN-based Approach for Accurate, Applicable, and Efficient Fall Detection
+## Product name: A CNN-based Approach for accurate, applicable, and efficient fall detection
 
 ### Submitted by Shaurya Jain, Soham Jain, Anmol Karan
 
