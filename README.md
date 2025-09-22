@@ -1,4 +1,4 @@
-## [LapseNet: A Hybrid CNN-LSTM Approach for Accurate and Efficient Vision-Based Fall Detection]([url](https://ieeexplore.ieee.org/document/10758566))
+## [LapseNet: A Hybrid CNN-LSTM Approach for Accurate and Efficient Vision-Based Fall Detection]([https://ieeexplore.ieee.org/document/10758566])
 ### Shaurya Jain, Soham Jain, Anmol Karan
 #### doi: 10.1109/ICRCV62709.2024.10758566
 
